@@ -1,5 +1,5 @@
----
-permalink: /
+0x99t
+permalink: /0x99t
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
